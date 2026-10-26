@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">重庆奶蛙大学奶蛙校徽</title>
+  <circle cx="80" cy="80" r="75" fill="#f4d982" stroke="#233d35" stroke-width="5"/>
+  <path d="M36 68c0-16 12-28 27-28h34c15 0 27 12 27 28v28c0 23-19 42-44 42S36 119 36 96V68Z" fill="#a8bf92" stroke="#233d35" stroke-width="5"/>
+  <circle cx="59" cy="55" r="17" fill="#fff8df" stroke="#233d35" stroke-width="5"/>
+  <circle cx="101" cy="55" r="17" fill="#fff8df" stroke="#233d35" stroke-width="5"/>
+  <circle cx="61" cy="56" r="5" fill="#233d35"/>
+  <circle cx="99" cy="56" r="5" fill="#233d35"/>
+  <path d="M62 97c11 10 25 10 36 0" fill="none" stroke="#233d35" stroke-width="5" stroke-linecap="round"/>
+  <path d="M58 116h44" stroke="#f7ebbf" stroke-width="5" stroke-linecap="round"/>
+</svg>
